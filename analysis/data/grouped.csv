@@ -1,0 +1,537 @@
+stakes,story,response,response
+high,bank,Do the present employees have criminal records?,1
+high,bank,Do we have a list of all the employees that were scheduled to work that day?,1
+high,bank,Do you have a copy of employee schedules? ,1
+high,bank,Has anyone spoken to an employee,1
+high,bank,How many employees are there?,1
+high,bank,Was any security camera recording that area at the time?,1
+high,bank,What do you recall at the time of the crime?,1
+high,bank,What employees were present during the robbery?,1
+high,bank,What employees were present when the documents went missing? ,1
+high,bank,What employees were working that day?,1
+high,bank,Where are the employees,1
+high,bank,Where can i find the bank employees?,1
+high,bank,Where were at the time this incident occurred?,1
+high,bank,Where were the files hidden and who had access,1
+high,bank,Where were you during the theft?,1
+high,bank,Where were you during the time the files were stolen?,1
+high,bank,Where were you when the documents went missing?,1
+high,bank,Which employee will benefit from taking the documents? ,1
+high,bank,Which employees at the bank were clocked in during the time of the theft?,1
+high,bank,Which employees were at the scene of the crime that day?,1
+high,bank,Which employees were on shift around the time the files went missing?,1
+high,bank,Which employees were present at the time of the crime?,1
+high,bank,Which employees were present during the theft?,1
+high,bank,Which employees were present during the time of the crime?,1
+high,bank,Which employees were present when the documents went missing?,1
+high,bank,Which employees were working on the day that the files disappeared?,1
+high,bank,Which employees were working when the documents went missing?,1
+high,bank,Which employees were working when they were stolen?,1
+high,bank,Who had access to the missing documents?,1
+high,bank,Who was clocked in at the same time the files went missing?,1
+high,bank,Who was clocked in at the time of the theft?,1
+high,bank,Who was here during the theft?,1
+high,bank,Who was present during the theft ,1
+high,bank,Who was working the day the documents went missing?,1
+high,bank,Who was working when the files disappeared?,1
+high,bank,Who was working when the files went missing?,1
+high,envelopes,Are the officers near the location?,1
+high,envelopes,Are there offices all near each other?,1
+high,envelopes,Can someone make a list of all these officials' home addresses?,1
+high,envelopes,Can you create a list for all government official office locations,1
+high,envelopes,Do you have any leads?,1
+high,envelopes,How closely are the offices located?,1
+high,envelopes,How should we split up?,1
+high,envelopes,What locations have been hit so far,1
+high,envelopes,What locations have you found are related to where this citizen has sent the envelopes out from?,1
+high,envelopes,What offices has these suspicious envelopes been sent to so far?,1
+high,envelopes,What offices have been sent these envelopes?,1
+high,envelopes,What offices have received these envelopes? ,1
+high,envelopes,What offices have we already found?,1
+high,envelopes,What offices received suspicious envelopes?,1
+high,envelopes,Where are all of the locations of the offices that the suspicious mail was sent to?,1
+high,envelopes,Where are the government officials that were sent the envelopes?,1
+high,envelopes,Where are the offices located?,3
+high,envelopes,Where are the offices that are most likely to be impacted?,1
+high,envelopes,Where are the offices that recieved letters?,1
+high,envelopes,Where are the offices that were sent suspicious envelopes? ,1
+high,envelopes,Where is the nearest location?,1
+high,envelopes,Where is the office?,1
+high,envelopes,Where should i send my teams?,1
+high,envelopes,Which locations do you think they were sent to?,1
+high,envelopes,Which locations should we send the teams to?,1
+high,envelopes,Which offices did the letters come from?,1
+high,envelopes,Which offices had envelopes sent to them recently?,1
+high,envelopes,Which offices have been receiving these suspicious envelopes?,1
+high,envelopes,Which offices have received mail?,1
+high,envelopes,Which offices have received suspicious envelopes?,1
+high,envelopes,Which offices received letters?,1
+high,envelopes,Which offices were sent the envelopes? ,1
+high,envelopes,Which offices were the envelopes sent to?,1
+high,envelopes,Which officials in the offices got envelopes? ,1
+high,fire,Are the tenants able to get out of their houses?,1
+high,fire,Are their any tenants left in the building?,1
+high,fire,Are they any tenants left in the building or is everyone outside?,1
+high,fire,Are you ready?,1
+high,fire,Did you check all the rooms for life ,1
+high,fire,Do we know how many tenants are home?,1
+high,fire,Do we want to split up into multiple teams so we can cover as many units as possible?,1
+high,fire,Do you know your assignments?,1
+high,fire,Do you think you could save the tenants?,1
+high,fire,How many have you saved so far?,1
+high,fire,How many people are in the building?,1
+high,fire,How many people are on each floor?,1
+high,fire,How many people are still in the building?,1
+high,fire,How many people live in here?,1
+high,fire,How many tenants are in the building?,1
+high,fire,How many tenants live here?,2
+high,fire,How many tenants live in this apartment building?,1
+high,fire,How many tenants were in the building? ,1
+high,fire,Is anyone missing?,1
+high,fire,Is anyone still inside?,1
+high,fire,Is everyone here,1
+high,fire,What apartments are closest to the fire?,1
+high,fire,What floors are most of the tenants on?,1
+high,fire,Where are all of the tenants located?,1
+high,fire,Where are most of the tenants located in the building?,1
+high,fire,Where are the most tenants located?,1
+high,fire,Where are the remaining tenants located?,1
+high,fire,Where are the tenants located?,1
+high,fire,Where are the tenants?,1
+high,fire,Where are the tenants? ,1
+high,fire,Where do most tenants tend to be?,1
+high,fire,Where do the tenants live in the building?,1
+high,fire,Which apartment or floor did the fire start on?,1
+high,fire,Which apartments have tenants in them?,1
+high,fire,Which floor caught on fire and how many people are in this complex,1
+high,gas,Are all the emergency exits unobstructed?,1
+high,gas,Can someone send out an announcement over the loudspeaker?,1
+high,gas,Can you help get people out,1
+high,gas,Can you split up and tell people on different floors to evacuate?,1
+high,gas,How do you think we should evacuate everyone from the building?,1
+high,gas,How many offices need to be evacuated?,1
+high,gas,How many people are in the building and how quickly can we get them out?,1
+high,gas,How should we evacuate these people safely and quickly?,1
+high,gas,How should we evacuate these people?,1
+high,gas,How should we go about the evacuation?,1
+high,gas,Is everyone evacuated? ,1
+high,gas,Is there a protocol in place in the event of a gas leak?,1
+high,gas,What are the possible evacuation options?,1
+high,gas,What exits can we evacuate people through?,1
+high,gas,What floor do you want to evacuate?,1
+high,gas,What is the best way to get everyone out of here?,1
+high,gas,What is the plan for evacuation? ,1
+high,gas,What is the quickest and safest way to evacuate people? ,1
+high,gas,What is the safest and shortest escape route?,1
+high,gas,What is the typical evacuation procedure? ,1
+high,gas,Whats the evacuation plan ?,1
+high,gas,Whats the fastest way to evacuate people?,1
+high,gas,Where are the closest exits?,1
+high,gas,Where are the emergency exits located?,2
+high,gas,Where are the evacuation routes?,1
+high,gas,Where are the exit doors located?,1
+high,gas,Where are the exits?,1
+high,gas,Where are the nearest exits in the building to evacuate people?,1
+high,gas,Where are the peopel,1
+high,gas,Where are the people that we need to evacuate?,1
+high,gas,Where is the closest exit,1
+high,gas,Where is the nearest exit?,1
+high,gas,Which exit should we evacuate people from?,1
+high,gas,Which exits are clear?,1
+high,gas,Which exits are the best ways to evacuate?,1
+high,oyster,Are the contaminated oysters from a concentrated area?,1
+high,oyster,Can we get a list of oyster distribution within the region?,1
+high,oyster,Can you track down the contaminated oysters?,1
+high,oyster,Can you track the locations of the oysters?,1
+high,oyster,Have you found the locations of any contaminated oysters?,1
+high,oyster,Make sure you find it ,1
+high,oyster,What locations were oysters sent to?,1
+high,oyster,What restaurants get their oysters from the mid-atlantic?,1
+high,oyster,What restaurants received this supply of oysters?,1
+high,oyster,What restaurants were sold the contaminated oysters?,1
+high,oyster,Where are the contaminated oysters?,1
+high,oyster,Where are the contaminated oysters? ,1
+high,oyster,Where are the most contaminated oysters found?,1
+high,oyster,Where are the oysters being purchased from?,1
+high,oyster,Where are the oysters concentrated the most?,1
+high,oyster,Where are the oysters located?,2
+high,oyster,Where are the restaurants that were most impacted by the contaminated oysters?,1
+high,oyster,Where did they come from,1
+high,oyster,Where have the contaminated oysters come from?,1
+high,oyster,Where have the oysters been delivered to?,1
+high,oyster,Where is the nears restaurant that was sold oysters?,1
+high,oyster,Where were the contaminated oysters sold to?,1
+high,oyster,Which farm grew the contaminated oysters?,1
+high,oyster,Which locations were the oysters sold,1
+high,oyster,Which region did the oysters come from?,1
+high,oyster,Which restaurants bought oysters from the contaminated region?,1
+high,oyster,Which restaurants bought oysters?,1
+high,oyster,Which restaurants got delivered oysters?,1
+high,oyster,Which restaurants offeroysters on the menu?,1
+high,oyster,Which restaurants purchased these oysters?,1
+high,oyster,Which restaurants sell oysters?,1
+high,oyster,Which restaurants were sold these oysters?,1
+high,oyster,Which restaurants were these oysters sold to?,1
+high,oyster,Which supermarkets sell oysters?,1
+high,oyster,Who can find me a list of the restaurants that were sold these oysters?,1
+high,protest,Can you find where they are being held? ,1
+high,protest,Do any of yoy have an idea of where they are?,1
+high,protest,Do we know the location of where the hostages are being held?,1
+high,protest,Do you think there will be armed guards?,1
+high,protest,Have you found the location of the protesters?,1
+high,protest,Where are the captured protesters being held?,2
+high,protest,Where are the captured protesters being held? ,1
+high,protest,Where are the captured protesters located?,1
+high,protest,Where are the captured protesters?,5
+high,protest,Where are the captured protestors?,1
+high,protest,Where are the protesters captured?,1
+high,protest,Where are the protesters held?,1
+high,protest,Where are the protestors being held?,1
+high,protest,Where are the protestors located?,2
+high,protest,Where are they,1
+high,protest,Where are they being held?,2
+high,protest,Where could they be held?,1
+high,protest,Where did the captured protesters go?,1
+high,protest,Where did they take the catpured protesters?,1
+high,protest,Where did they take the protesters?,1
+high,protest,Where do you think the protesters are being held?,1
+high,protest,Where do you think they are holding the captured protestors? ,1
+high,protest,Where have the captured protesters been taken?,1
+high,protest,Where is the hostages held?,1
+high,protest,Where might they have taken the protesters?,1
+high,protest,Where were the captured protesters located?,1
+high,protest,Where were the protesters first captured?,1
+high,protest,Where would they keep them?,1
+high,protest,Which areas of the city were the protesters protesting?,1
+high,rabies,Are they all getting infects in the same places?,1
+high,rabies,Around which areas were the animals spotted?,1
+high,rabies,Could you compile a list of the animals located with rabies? ,1
+high,rabies,Find them,1
+high,rabies,Have there been any further reports of rabid animal attacks?,1
+high,rabies,Have we received any calls about aggressive animal sightings? ,1
+high,rabies,Have you suspected any rabid animals around here?,1
+high,rabies,How far could they have gone within a 24 hour period?,1
+high,rabies,What are the infections that these animals have?,1
+high,rabies,What are the locations of the latest reports of rabid animals?,1
+high,rabies,What areas have you received the most calls from?,1
+high,rabies,What is the location of the infected animals?,1
+high,rabies,What locations so far have called about the animal infestation?,1
+high,rabies,Where are the infected animals?,2
+high,rabies,Where are the infested animals?,1
+high,rabies,Where are the rabid animals? ,1
+high,rabies,Where are these animals being spotted?,1
+high,rabies,Where did the callers say these animals were?,1
+high,rabies,Where do the calls say the animals are located?,1
+high,rabies,Where do you think they went?,1
+high,rabies,Where have people been seeing these rabid animals lately?,1
+high,rabies,Where have the calls been coming from about the infected animals?,1
+high,rabies,Where have the infected animals been seen?,1
+high,rabies,Where have the rabid animals been seen,1
+high,rabies,Where have there been rabid animals reported? ,1
+high,rabies,Where have you received the most calls in relation to rabid animals?,1
+high,rabies,Where was the animal last seen ,1
+high,rabies,Where was the animal last seen?,1
+high,rabies,Where were the callers located when they called?,1
+high,rabies,Where were the calls coming from?,1
+high,rabies,Where were the last infected animals seen?,1
+high,rabies,Where were the rabid animals last seen?,1
+high,rabies,Where were these animals last seen?,1
+high,rabies,Where were these infected animals last seen?,1
+high,rabies,Who can remind the team on what the symptoms of rabid animals are?,1
+high,terrorism,Are they stores located closely together?,1
+high,terrorism,Do you have more information,1
+high,terrorism,Have there been attacks here before?,1
+high,terrorism,How far away are these stores from here?,1
+high,terrorism,How many people shop in this area?,1
+high,terrorism,What are the locations of the stores?,1
+high,terrorism,What kind of stores would they target?,1
+high,terrorism,What neighborhoods are these stores in?,1
+high,terrorism,What part of the area are the targeted stores in?,1
+high,terrorism,What stores are being targeted and where are they located?,1
+high,terrorism,What stores are being targeted in the area?,1
+high,terrorism,What stores are located around this location?,1
+high,terrorism,What stores are located in the area?,1
+high,terrorism,What stores are located within the surrounding area?,1
+high,terrorism,What stores do you think the terrorist will target next based on the past stores they attacked?,1
+high,terrorism,What stores have been targeted so far?,1
+high,terrorism,What stores have been targeted?,1
+high,terrorism,What types of stores are these?,1
+high,terrorism,Where are the largest and busiest stores in the area?,1
+high,terrorism,Where are the local stores here?,1
+high,terrorism,Where are the locations of the target attacks?,1
+high,terrorism,Where are the stores,1
+high,terrorism,Where are the stores that are being targeted?,1
+high,terrorism,Where are the stores that are damaged?,1
+high,terrorism,Where are the stores that were attacked?,1
+high,terrorism,Where are the stores that were targeted? ,1
+high,terrorism,Where are the targeted stores location?,1
+high,terrorism,Where can we evacuate these stores?,1
+high,terrorism,Where were the targeted stores located?,1
+high,terrorism,Which stores are around the most populated areas? ,1
+high,terrorism,Which stores are being robbed the most ,1
+high,terrorism,Which stores are being targeted? ,1
+high,terrorism,Which stores are close to us?,1
+high,terrorism,Which stores are getting terrorist threats? ,1
+high,terrorism,Which stores are more likely to be attacked?,1
+high,terrorism,Which stores are targeted for the attacks?,1
+low,centralpark,Can you point me to central park?,1
+low,centralpark,Can you tell me how to get to central park from here?,2
+low,centralpark,Could you please give me directions to central park?,1
+low,centralpark,Do you know how i can get to central park?,1
+low,centralpark,Do you know how i could get to central park? ,1
+low,centralpark,Do you know how to get to central park?,2
+low,centralpark,"Excuse me, could you tell me how to get to central park?",1
+low,centralpark,How can i get to central park?,1
+low,centralpark,How can i go to the central park?,1
+low,centralpark,How do i get to cental park from here?,1
+low,centralpark,How do i get to central park from here?,4
+low,centralpark,How do i get to central park from here? ,1
+low,centralpark,How do i get to central park from here? or whats the fastest way to get to central park?,1
+low,centralpark,How do you get to central park from here ,1
+low,centralpark,How do you get to central park from here?,1
+low,centralpark,How do you get to central park?,1
+low,centralpark,"Nothing, they won't respond to you. ",1
+low,centralpark,What is the best way for me to get to central park from here?,1
+low,centralpark,What is the quickest way to get to central park?,2
+low,centralpark,What way to central park?,1
+low,centralpark,Where can i find central park from here?,1
+low,centralpark,Where is central park?,1
+low,centralpark,Where is central park? ,1
+low,centralpark,Which direction do i go in to get to central park?,1
+low,centralpark,Which way is central park?,4
+low,centralpark,Which way is the fastest wat to central park ,1
+low,centralpark,Which way to central park?,1
+low,coffee,Are there any coffee shops around?,1
+low,coffee,Are there any coffee shops near here that sell good espressos?,1
+low,coffee,Are there any coffee shops near us?,1
+low,coffee,Do you know any coffee shops that serve expresso?,1
+low,coffee,Do you know any good coffee spots around here?,1
+low,coffee,Do you know of any good coffee shops nearby?,1
+low,coffee,Do you know where the best coffee shops that sell espresso are?,1
+low,coffee,Do you know where to find coffee shops ,1
+low,coffee,Is there a coffee shop with good espresso?,1
+low,coffee,Is there a local coffee shop with good espresso?,1
+low,coffee,What are good coffee shops near us?,1
+low,coffee,What are the most chic cafes in the area?,1
+low,coffee,What are your favorite coffee shops?,1
+low,coffee,What coffee shop do you go to?,1
+low,coffee,What coffee shops are good,1
+low,coffee,What is the best coffee shop in minneapolis?,1
+low,coffee,What is the best local coffee shop?,1
+low,coffee,What is your favorite coffee shop?,1
+low,coffee,Where are good coffee shops?,1
+low,coffee,Where are some good coffee shops around the city?,1
+low,coffee,Where are some good coffee shops in minneapolis?,1
+low,coffee,Where are the best coffee shops nearby? ,1
+low,coffee,Where are the best coffee shops?,1
+low,coffee,Where are the best espresso shops?,1
+low,coffee,Where can i drink espresso around here?,1
+low,coffee,Where can i find good coffee shops?,1
+low,coffee,Where can i get espresso?,1
+low,coffee,Where can i get some good espresso?,1
+low,coffee,Where can i get the best espresso in minneapolis?,1
+low,coffee,Where has the best espresso around here?,1
+low,coffee,Where is the best coffee shop?,2
+low,coffee,Where is the closest coffee shop?,1
+low,coffee,Where is the closets coffee shop near here?,1
+low,coffee,Where is the nearest coffee shop? ,1
+low,coffee,Where is your favorite coffee shop?,1
+low,cycling,Are there any bike shops around here?,1
+low,cycling,Do you guys know of any bike shops nearby?,1
+low,cycling,Do you know a good bike shop in the area?,1
+low,cycling,Do you know any bike shops around here?,1
+low,cycling,Do you know any bike shops in the area?,1
+low,cycling,Do you know any good bike shops around?,1
+low,cycling,Do you know of any bike shops in the area?,1
+low,cycling,Do you know where i can find a bike shop?,1
+low,cycling,Do you know where the closest bike shop is?,1
+low,cycling,What bike shops do you go to around here?,1
+low,cycling,What bike shops do you guys know about?,1
+low,cycling,Where are bike shops?,1
+low,cycling,Where are some bike shops?,1
+low,cycling,Where are the best bike shops,1
+low,cycling,Where are the best bike shops for cycling equipment? ,1
+low,cycling,Where are the best bike shops?,1
+low,cycling,Where are the closest bike shops and which one is better?,1
+low,cycling,Where are the local bike shops?,1
+low,cycling,Where are they bike shops,1
+low,cycling,Where can i find a bike shop?,1
+low,cycling,Where can i find a good bike shop?,2
+low,cycling,Where can i find good bike shops?,1
+low,cycling,Where can i get a good bike?,1
+low,cycling,Where did you get your bike?,1
+low,cycling,Where is the best bike shop around here?,1
+low,cycling,Where is the best bike shop nearby?,1
+low,cycling,Where is the best bike shop?,1
+low,cycling,Where is the closest bike shop?,2
+low,cycling,Where is the nearest bike shop around here?,1
+low,cycling,Where is the nearest bike shop?,1
+low,cycling,Where is the nearest bike shop? ,3
+low,cycling,Where's the nearest bike shop?,1
+low,food,Are there any good italian restaurants around here?,2
+low,food,Do you know any goo italian restaurants in new jersey?,1
+low,food,Do you know any good italian restaurants?,1
+low,food,Do you know any italian food restaurants?,1
+low,food,Do you know which restaurant serves the best italian food around here?,1
+low,food,What are your favorite italian restaurants around town?,1
+low,food,What are your favorite italian restaurants?,1
+low,food,What is the best italian restaurant around here?,1
+low,food,What is the closest italian restaurant?,2
+low,food,What italian restaurant do you know is the best for me to go eat at?,1
+low,food,What italian restaurants do you like?,1
+low,food,What italian restaurants do you suggest around here?,1
+low,food,What restaurant around serve italian?,1
+low,food,What's the best local italian restaurant?,1
+low,food,What's the best place i can get some italian food around here?,1
+low,food,What's your favorite italian restaurant around here?,1
+low,food,What's your favorite italian restaurant nearby? ,1
+low,food,Where are good italian food restaurants? ,1
+low,food,Where are some good italian restaurants,1
+low,food,Where are the best italian restaurant?,1
+low,food,Where are the best italian restaurants in town?,1
+low,food,Where are the best italian restaurants nearby?,1
+low,food,Where are the best italian restaurants?,3
+low,food,Where are the italian restaurants?,1
+low,food,Where do you get italian food from?,1
+low,food,Where is a good italian restaurant?,1
+low,food,Where is a good italian restaurant? ,1
+low,food,Where is the best italian restaurant? ,2
+low,food,Where is the best place to eat italian food?,1
+low,food,Where is your favorite italian restaurant?,1
+low,food,Which restaurants around here serve italian food?,1
+low,museums,Are there any museums around here?,1
+low,museums,Are there any museums near the area?,1
+low,museums,Could you tell me what museums are near this restaurant? ,1
+low,museums,Do you have any popular museums around?,1
+low,museums,Do you know any good museums around here?,1
+low,museums,Do you know any good museums?,1
+low,museums,Do you know of any local museums around here that people tend to like?,1
+low,museums,Do you know where the best museums are located around here?,1
+low,museums,Have you been to any museums around here?,1
+low,museums,What are some great museums to visit around here?,1
+low,museums,What are the best museums in new york?,1
+low,museums,What are the best museums in the city?,2
+low,museums,What is the most popular museum around here?,1
+low,museums,What is your favorite museum here in the city?,1
+low,museums,What museum do you recommend nearby?,1
+low,museums,What museum does he recommend to visit?,1
+low,museums,What museums do you recommend?,1
+low,museums,What musuems do you know are nice?,1
+low,museums,What’s the best location for a museums?,1
+low,museums,Where are some museums,1
+low,museums,Where are some of the greatest museums in the city ,1
+low,museums,Where are the best museums in the city?,1
+low,museums,Where are the museums close by?,1
+low,museums,Where are the museums?,3
+low,museums,Where is a good museum? ,1
+low,museums,Where is the closest museum?,1
+low,museums,Where is the nearest museum from here?,1
+low,museums,Where is the nearest museum?,1
+low,museums,Where is the nearest museum? ,1
+low,museums,Where's the nearest museum?,1
+low,museums,Which museum is your favorite?,1
+low,museums,Which museum should i go to?,1
+low,museums,Which museums are the best around here?,1
+low,party,Are they having fun?,1
+low,party,Are you guys excited for the party?,1
+low,party,Are you having fun?,1
+low,party,Are you okay with my classmates being invited?,1
+low,party,Do we wanna drink?,1
+low,party,Do you think everyone is enjoying the party?,1
+low,party,How are you liking the party so far?,1
+low,party,How do you think our classmates will act at the party?,1
+low,party,How is the party going?,1
+low,party,Is everyone friendly?,1
+low,party,Is everyone having a good time? ,1
+low,party,Is the party poppin?,1
+low,party,What activities should i have for my party?,1
+low,party,What do our classmates like?,1
+low,party,What do you guys want to do at my party?,1
+low,party,What do you guys want to do?,1
+low,party,What do you think everyone else would be like at the party?,1
+low,party,What do you think i should have at the party?,1
+low,party,What do you think of my guest list?,1
+low,party,What is going on at the party,1
+low,party,What kind of drinks do you guys want?,1
+low,party,What kind of food/drink would you like,1
+low,party,What kind of music do you guys like to listen to?,1
+low,party,What kind of music do you guys like?,1
+low,party,What kind of music do you think they'll like?,1
+low,party,What kind of party do you think the classmates will like? ,1
+low,party,What kind of party should i have?,1
+low,party,What kind of theme do you like for parties?,1
+low,party,What should be the vibe of this party? should it be a kickback chill vibe or a rager lit house party?,1
+low,party,What them should i do?,1
+low,party,What type of food do you like?,1
+low,party,Who did you invite,1
+low,party,Who did you specifically invite?,1
+low,party,Who do you think will come?,1
+low,party,Who else do you think i should invite?,1
+low,party,Who's coming to the party?,1
+low,wood,Are there any woodworking shops around here?,1
+low,wood,Are there any woodworking shops in the area?,1
+low,wood,Can you point me to where some woodworking shops are?,1
+low,wood,Do you know a woodworking shop near here?,1
+low,wood,Do you know of any woodworking shops around here?,1
+low,wood,Do you know where any local woodworking shops are around here?,1
+low,wood,Do you know where any woodworking stores are around here?,1
+low,wood,Have you been to any nearby woodworking shops?,1
+low,wood,How far are the woodworking shops?,1
+low,wood,How far is the nearest woodworking shop?,1
+low,wood,Is there a woodworking shop nearby?,1
+low,wood,Is there any woodworking shops around here?,1
+low,wood,What are the best woodworking shops around here?,1
+low,wood,What are the closest woodworking shops?,1
+low,wood,What is the best woodworking shop around here?,1
+low,wood,What is the best woodworking shop in the area?,1
+low,wood,What is the nearest woodworking shop?,1
+low,wood,Where are the amish woodworking shops?,1
+low,wood,Where are the best woodworking shops,1
+low,wood,Where are the best woodworking shops in town?,1
+low,wood,Where are the closest woodworking shops?,1
+low,wood,Where are the woodworking shops around?,1
+low,wood,Where are the woodworking shops?,3
+low,wood,Where are the woodworking shops? ,1
+low,wood,Where are woodworking shops?,1
+low,wood,Where can i find a woodworking shop?,1
+low,wood,Where can i find an amish woodworking shop around here?,1
+low,wood,Where can i find the woodworking shops?,1
+low,wood,Where could i find an amish woodworking shop?,1
+low,wood,Where is the best woodworking shop around here?,1
+low,wood,Where is the nearest woodworking shop?,2
+low,wood,Where's a good woodworking shop around here?,1
+low,wood,Where’s the closest woodworking shops?,1
+low,yoga,Are there any local yoga studios you guys go to?,1
+low,yoga,Are there any yoga studios around this area?,1
+low,yoga,Are there any yoga-in-the-park events around here?,1
+low,yoga,Can you tell me what yoga studios are in the area?,1
+low,yoga,Do any of you suggest a yoga location near by?,1
+low,yoga,Do you know any yoga studios in the area?,1
+low,yoga,Do you know of any yoga studios in the area?,1
+low,yoga,Does anyone know any good yoga studios?,1
+low,yoga,Is there a yoga studio nearby?,1
+low,yoga,What places have yoga here in this area?,1
+low,yoga,What studios do you recommend?,1
+low,yoga,What yoga studios are around here?,1
+low,yoga,What yoga studios do you go to?,2
+low,yoga,What yoga studios do you guys go to?,1
+low,yoga,Where are some good yoga studios,1
+low,yoga,Where are some good yoga studios nearby?,1
+low,yoga,Where are some local yoga studies around here?,1
+low,yoga,Where are the best yoga studios in the area?,1
+low,yoga,Where are the best yoga studios?,2
+low,yoga,Where are the closest yoga studios?,1
+low,yoga,Where are the local yoga studios?,1
+low,yoga,Where are the nearest yoga studios? ,1
+low,yoga,Where are the yoga studios around here ,1
+low,yoga,Where are the yoga studios located?,1
+low,yoga,Where are your favorite yoga studios?,1
+low,yoga,Where can i find a yoga studio?,1
+low,yoga,Where do you guys practice yoga?,1
+low,yoga,Where is a yoga studio?,1
+low,yoga,Where is the nearest yoga studio?,1
+low,yoga,Where's a good yoga studio nearby?,1
+low,yoga,Wheres the nearest yoga studio?,1
+low,yoga,Which studio is the best?,1
+low,yoga,Which yoga studio is best in the area? ,1
+low,yoga,Which yoga studio is the best around here?,1

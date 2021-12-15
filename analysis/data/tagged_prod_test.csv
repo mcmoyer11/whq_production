@@ -1,0 +1,358 @@
+,Unnamed: 0,Unnamed: 0.1,subject,Nat_lang,factors,sentence,trial,stakes,story,wh,clauseType,phrase,questType,heuristic,v_before,v1_after,v2_after,v3_after,wh_v1,mat_verb,emb_verb
+0,108,117,1.0,na,test-high-oyster-where,Where are the most contaminated oysters found?,test,high,oyster,where,Finite,,Root Question,?,,are,found,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+1,109,118,2.0,na,test-high-oyster-where,Where are the oysters concentrated the most?,test,high,oyster,where,Finite,,Root Question,?,,are,concentrated,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+2,110,119,3.0,na,test-high-oyster-where,Where are the contaminated oysters? ,test,high,oyster,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+3,111,120,4.0,na,test-high-oyster-where,Which restaurants sell oysters?,test,high,oyster,which,Finite,,Root Question,?,,sell,,,"[['Which', 'WDT'], ['restaurants', 'NNS'], ['sell', 'VBP']]",,sell
+4,112,121,5.0,na,test-high-oyster-where,Where are the contaminated oysters?,test,high,oyster,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+5,113,122,6.0,na,test-high-oyster-where,What restaurants were sold the contaminated oysters?,test,high,oyster,what,Finite,,Root Question,?,,were,sold,contaminated,"[['What', 'WP'], ['restaurants', 'NNS'], ['were', 'VBD']]",,be
+6,114,123,7.0,na,test-high-oyster-where,Where did they come from,test,high,oyster,where,Finite,,Root Question,amb,,did,come,,"[['Where', 'WRB'], ['did', 'VBD']]",,do
+7,115,124,8.0,na,test-high-oyster-where,Which restaurants bought oysters?,test,high,oyster,which,Finite,,Root Question,?,,bought,,,"[['Which', 'WDT'], ['restaurants', 'NNS'], ['bought', 'VBD']]",,buy
+8,116,125,9.0,na,test-high-oyster-where,Which supermarkets sell oysters?,test,high,oyster,which,Finite,,Root Question,rel_clause,,sell,,,"[['Which', 'JJ'], ['supermarkets', 'NNS'], ['sell', 'VBP']]",,sell
+9,118,127,11.0,na,test-high-oyster-where,Where are the oysters located?,test,high,oyster,where,Finite,,Root Question,?,,are,located,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+10,119,128,12.0,na,test-high-oyster-where,Which locations were the oysters sold,test,high,oyster,which,Finite,,Root Question,rel_clause,,were,sold,,"[['Which', 'JJ'], ['locations', 'NNS'], ['were', 'VBD']]",,be
+11,122,131,15.0,na,test-high-oyster-where,Which restaurants bought oysters from the contaminated region?,test,high,oyster,which,Finite,,Root Question,?,,bought,contaminated,,"[['Which', 'WDT'], ['restaurants', 'NNS'], ['bought', 'VBD']]",,buy
+12,123,132,16.0,na,test-high-oyster-where,Where have the oysters been delivered to?,test,high,oyster,where,Finite,,Root Question,?,,have,been,delivered,"[['Where', 'WRB'], ['have', 'VBP']]",,have
+13,125,134,18.0,na,test-high-oyster-where,Which restaurants were these oysters sold to?,test,high,oyster,which,Finite,,Root Question,rel_clause,,were,sold,,"[['Which', 'JJ'], ['restaurants', 'NNS'], ['were', 'VBD']]",,be
+14,126,135,19.0,na,test-high-oyster-where,Where have the contaminated oysters come from?,test,high,oyster,where,Finite,,Root Question,?,,have,contaminated,come,"[['Where', 'WRB'], ['have', 'VBP']]",,have
+15,127,136,20.0,na,test-high-oyster-where,Which restaurants purchased these oysters?,test,high,oyster,which,Finite,,Root Question,rel_clause,,purchased,,,"[['Which', 'JJ'], ['restaurants', 'NNS'], ['purchased', 'VBD']]",,purchase
+16,128,137,21.0,na,test-high-oyster-where,Where are the restaurants that were most impacted by the contaminated oysters?,test,high,oyster,where,Finite,,Root Question,?,,are,were,impacted,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+17,129,138,17617,English,test-high-oyster-where,Who can find me a list of the restaurants that were sold these oysters?,test,high,oyster,who,Modal,,Root Question,?,,can,find,were,"[['Who', 'WP'], ['can', 'MD']]",,can
+18,130,139,17026,Spanish,test-high-oyster-where,Where is the nears restaurant that was sold oysters?,test,high,oyster,where,Finite,,Root Question,?,,is,restaurant,was,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+19,131,140,16918,Spanish,test-high-oyster-where,What locations were oysters sent to?,test,high,oyster,what,Finite,,Root Question,?,,were,sent,,"[['What', 'WP'], ['locations', 'NNS'], ['were', 'VBD']]",,be
+20,132,141,16570,Bengali,test-high-oyster-where,Which restaurants got delivered oysters?,test,high,oyster,which,Finite,,Root Question,rel_clause,,got,delivered,,"[['Which', 'JJ'], ['restaurants', 'NNS'], ['got', 'VBD']]",,get
+21,133,142,17926,English,test-high-oyster-where,Which restaurants offeroysters on the menu?,test,high,oyster,which,Finite,,Root Question,rel_clause,,restaurants,,,"[['Which', 'JJ'], ['restaurants', 'VBZ']]",,restaurants
+22,135,144,17245,English,test-high-oyster-where,What restaurants received this supply of oysters?,test,high,oyster,what,Finite,,Root Question,?,,restaurants,received,,"[['What', 'WP'], ['restaurants', 'VBZ']]",,restaurants
+23,136,146,jmc835,english,test-high-oyster-where,Where were the contaminated oysters sold to?,test,high,oyster,where,Finite,,Root Question,?,,were,sold,,"[['Where', 'WRB'], ['were', 'VBD']]",,be
+24,137,147,18247,english,test-high-oyster-where,Which restaurants were sold these oysters?,test,high,oyster,which,Finite,,Root Question,rel_clause,,were,sold,,"[['Which', 'JJ'], ['restaurants', 'NNS'], ['were', 'VBD']]",,be
+25,138,148,17197,English,test-high-oyster-where,Where are the oysters being purchased from?,test,high,oyster,where,Finite,,Root Question,?,,are,being,purchased,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+26,139,149,18148,English,test-high-oyster-where,Which farm grew the contaminated oysters?,test,high,oyster,which,Finite,,Root Question,?,,grew,,,"[['Which', 'WDT'], ['farm', 'NN'], ['grew', 'VBD']]",,grow
+27,140,151,16921 ,English,test-high-oyster-where,Where are the oysters located?,test,high,oyster,where,Finite,,Root Question,?,,are,located,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+28,141,152,16750,English ,test-high-oyster-where,Which region did the oysters come from?,test,high,oyster,which,Finite,,Root Question,rel_clause,,did,come,,"[['Which', 'JJ'], ['region', 'NN'], ['did', 'VBD']]",,do
+29,143,155,17671,English,test-high-oyster-where,What restaurants get their oysters from the mid-atlantic?,test,high,oyster,what,Finite,,Root Question,?,,restaurants,get,,"[['What', 'WP'], ['restaurants', 'VBZ']]",,restaurants
+30,216,234,1.0,na,test-low-museums-where,Where is the closest museum?,test,low,museums,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+31,217,235,2.0,na,test-low-museums-where,Where is the nearest museum from here?,test,low,museums,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+32,218,236,3.0,na,test-low-museums-where,Where is the nearest museum? ,test,low,museums,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+33,219,237,4.0,na,test-low-museums-where,Where are the museums?,test,low,museums,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+34,220,238,5.0,na,test-low-museums-where,Which museums are the best around here?,test,low,museums,which,Finite,,Root Question,rel_clause,,are,,,"[['Which', 'JJ'], ['museums', 'NNS'], ['are', 'VBP']]",,be
+35,221,239,6.0,na,test-low-museums-where,Could you tell me what museums are near this restaurant? ,test,low,museums,what,Finite,,Embedded Question,strict_rel,tell,are,,,"[['what', 'WP'], ['museums', 'NNS'], ['are', 'VBP']]",tell,be
+36,222,240,7.0,na,test-low-museums-where,Where are some museums,test,low,museums,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+37,223,241,8.0,na,test-low-museums-where,What are the best museums in new york?,test,low,museums,what,Finite,,Root Question,sub_aux_inv,,are,,,"[['What', 'WP'], ['are', 'VBP']]",,be
+38,224,242,9.0,na,test-low-museums-where,What are the best museums in the city?,test,low,museums,what,Finite,,Root Question,sub_aux_inv,,are,,,"[['What', 'WP'], ['are', 'VBP']]",,be
+39,225,243,10.0,na,test-low-museums-where,What musuems do you know are nice?,test,low,museums,what,Finite,,Root Question,?,,musuems,do,know,"[['What', 'WP'], ['musuems', 'VBZ']]",,musuems
+40,226,244,11.0,na,test-low-museums-where,What is the most popular museum around here?,test,low,museums,what,Finite,,Root Question,sub_aux_inv,,is,,,"[['What', 'WP'], ['is', 'VBZ']]",,be
+41,227,245,12.0,na,test-low-museums-where,Where are the museums?,test,low,museums,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+42,228,246,13.0,na,test-low-museums-where,Where are the museums?,test,low,museums,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+43,229,247,14.0,na,test-low-museums-where,What’s the best location for a museums?,test,low,museums,what,Finite,,Root Question,?,,’,s,,"[['What', 'WP'], ['’', 'VBZ']]",,’
+44,230,248,15.0,na,test-low-museums-where,Where are the museums close by?,test,low,museums,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+45,232,250,17.0,na,test-low-museums-where,Which museum is your favorite?,test,low,museums,which,Finite,,Root Question,rel_clause,,is,,,"[['Which', 'NNP'], ['museum', 'NN'], ['is', 'VBZ']]",,be
+46,233,251,18.0,na,test-low-museums-where,What are some great museums to visit around here?,test,low,museums,what,Finite,,Root Question,?,,are,visit,,"[['What', 'WP'], ['are', 'VBP']]",,be
+47,234,252,19.0,na,test-low-museums-where,Where are the best museums in the city?,test,low,museums,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+48,236,254,21.0,na,test-low-museums-where,Do you know where the best museums are located around here?,test,low,museums,where,Finite,,Embedded Question,strict_emb,know,are,located,,"[['where', 'WRB'], ['the', 'DT'], ['best', 'JJS'], ['museums', 'NNS'], ['are', 'VBP']]",know,be
+49,238,256,17026,Spanish,test-low-museums-where,What museum does he recommend to visit?,test,low,museums,what,Finite,,Root Question,?,,does,recommend,visit,"[['What', 'WP'], ['museum', 'NN'], ['does', 'VBZ']]",,do
+50,239,257,16918,Spanish,test-low-museums-where,What is your favorite museum here in the city?,test,low,museums,what,Finite,,Root Question,sub_aux_inv,,is,,,"[['What', 'WP'], ['is', 'VBZ']]",,be
+51,240,258,16570,Bengali,test-low-museums-where,Where are some of the greatest museums in the city ,test,low,museums,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+52,241,259,17926,English,test-low-museums-where,What museums do you recommend?,test,low,museums,what,Finite,,Root Question,?,,museums,do,recommend,"[['What', 'WP'], ['museums', 'VBZ']]",,museums
+53,244,263,jmc835,english,test-low-museums-where,Where is a good museum? ,test,low,museums,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+54,245,264,18247,english,test-low-museums-where,What are the best museums in the city?,test,low,museums,what,Finite,,Root Question,sub_aux_inv,,are,,,"[['What', 'WP'], ['are', 'VBP']]",,be
+55,246,265,17197,English,test-low-museums-where,What museum do you recommend nearby?,test,low,museums,what,Finite,,Root Question,?,,do,recommend,,"[['What', 'WP'], ['museum', 'NN'], ['do', 'VBP']]",,do
+56,247,266,18148,English,test-low-museums-where,Where's the nearest museum?,test,low,museums,where,Finite,,Root Question,sub_aux_inv,,'s,,,"[['Where', 'WRB'], [""'s"", 'VBZ']]",,'s
+57,248,268,16921 ,English,test-low-museums-where,Which museum should i go to?,test,low,museums,which,Modal,,Root Question,rel_clause,,should,i,go,"[['Which', 'NNP'], ['museum', 'NN'], ['should', 'MD']]",,should
+58,249,269,16750,English ,test-low-museums-where,Where is the nearest museum?,test,low,museums,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+59,433,469,2.0,na,test-low-food-where,What's your favorite italian restaurant around here?,test,low,food,what,Finite,,Root Question,sub_aux_inv,,'s,,,"[['What', 'WP'], [""'s"", 'VBZ']]",,'s
+60,434,470,3.0,na,test-low-food-where,Where is the best italian restaurant? ,test,low,food,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+61,435,471,4.0,na,test-low-food-where,Where is the best italian restaurant? ,test,low,food,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+62,436,472,5.0,na,test-low-food-where,Where do you get italian food from?,test,low,food,where,Finite,,Root Question,?,,do,get,,"[['Where', 'WRB'], ['do', 'VB']]",,do
+63,437,473,6.0,na,test-low-food-where,What is the closest italian restaurant?,test,low,food,what,Finite,,Root Question,sub_aux_inv,,is,,,"[['What', 'WP'], ['is', 'VBZ']]",,be
+64,438,474,7.0,na,test-low-food-where,Where are some good italian restaurants,test,low,food,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+65,439,475,8.0,na,test-low-food-where,What are your favorite italian restaurants?,test,low,food,what,Finite,,Root Question,sub_aux_inv,,are,,,"[['What', 'WP'], ['are', 'VBP']]",,be
+66,440,476,9.0,na,test-low-food-where,What is the closest italian restaurant?,test,low,food,what,Finite,,Root Question,sub_aux_inv,,is,,,"[['What', 'WP'], ['is', 'VBZ']]",,be
+67,441,477,10.0,na,test-low-food-where,What italian restaurant do you know is the best for me to go eat at?,test,low,food,what,Finite,,Root Question,?,,do,know,is,"[['What', 'WP'], ['italian', 'JJ'], ['restaurant', 'NN'], ['do', 'VBP']]",,do
+68,442,478,11.0,na,test-low-food-where,What italian restaurants do you suggest around here?,test,low,food,what,Finite,,Root Question,?,,do,suggest,,"[['What', 'WP'], ['italian', 'JJ'], ['restaurants', 'NNS'], ['do', 'VBP']]",,do
+69,443,479,12.0,na,test-low-food-where,Where are the italian restaurants?,test,low,food,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+70,444,480,13.0,na,test-low-food-where,Where are the best italian restaurant?,test,low,food,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+71,445,481,14.0,na,test-low-food-where,Where is the best place to eat italian food?,test,low,food,where,Finite,,Root Question,?,,is,eat,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+72,446,482,15.0,na,test-low-food-where,Where are the best italian restaurants nearby?,test,low,food,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+73,448,484,17.0,na,test-low-food-where,Where are the best italian restaurants?,test,low,food,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+74,450,486,19.0,na,test-low-food-where,Where is your favorite italian restaurant?,test,low,food,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+75,451,487,20.0,na,test-low-food-where,Which restaurants around here serve italian food?,test,low,food,which,Finite,,Root Question,rel_clause,,restaurants,serve,,"[['Which', 'JJ'], ['restaurants', 'VBZ']]",,restaurants
+76,452,488,21.0,na,test-low-food-where,Where are the best italian restaurants in town?,test,low,food,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+77,453,489,17617,English,test-low-food-where,What's the best local italian restaurant?,test,low,food,what,Finite,,Root Question,sub_aux_inv,,'s,,,"[['What', 'WP'], [""'s"", 'VBZ']]",,'s
+78,454,490,17026,Spanish,test-low-food-where,What restaurant around serve italian?,test,low,food,what,Finite,,Root Question,frag,,,,,"[['What', 'WP'], ['restaurant', 'NN'], ['around', 'IN'], ['serve', 'NN'], ['italian', 'NN'], ['?', '.']]",,
+79,455,491,16918,Spanish,test-low-food-where,Do you know which restaurant serves the best italian food around here?,test,low,food,which,Finite,,Embedded Question,strict_emb,know,serves,,,"[['which', 'WDT'], ['restaurant', 'NN'], ['serves', 'VBZ']]",know,serve
+80,456,492,16570,Bengali,test-low-food-where,Where are good italian food restaurants? ,test,low,food,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+81,457,493,17926,English,test-low-food-where,What is the best italian restaurant around here?,test,low,food,what,Finite,,Root Question,sub_aux_inv,,is,,,"[['What', 'WP'], ['is', 'VBZ']]",,be
+82,458,494,17899,arabic,test-low-food-where,What's your favorite italian restaurant nearby? ,test,low,food,what,Finite,,Root Question,sub_aux_inv,,'s,,,"[['What', 'WP'], [""'s"", 'VBZ']]",,'s
+83,460,497,jmc835,english,test-low-food-where,Where is a good italian restaurant? ,test,low,food,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+84,461,498,18247,english,test-low-food-where,What italian restaurants do you like?,test,low,food,what,Finite,,Root Question,?,,do,,,"[['What', 'WP'], ['italian', 'JJ'], ['restaurants', 'NNS'], ['do', 'VBP']]",,do
+85,462,499,17197,English,test-low-food-where,Where is a good italian restaurant?,test,low,food,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+86,463,500,18148,English,test-low-food-where,What's the best place i can get some italian food around here?,test,low,food,what,Finite,,Root Question,?,,'s,can,get,"[['What', 'WP'], [""'s"", 'VBZ']]",,'s
+87,464,502,16921 ,English,test-low-food-where,Where are the best italian restaurants?,test,low,food,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+88,465,503,16750,English ,test-low-food-where,Where are the best italian restaurants?,test,low,food,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+89,467,506,17671,English,test-low-food-where,What are your favorite italian restaurants around town?,test,low,food,what,Finite,,Root Question,sub_aux_inv,,are,,,"[['What', 'WP'], ['are', 'VBP']]",,be
+90,540,585,1.0,na,test-high-fire-where,Where do the tenants live in the building?,test,high,fire,where,Finite,,Root Question,?,,do,live,,"[['Where', 'WRB'], ['do', 'VB']]",,do
+91,542,587,3.0,na,test-high-fire-where,Where are the tenants? ,test,high,fire,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+92,543,588,4.0,na,test-high-fire-where,How many people are still in the building?,test,high,fire,how,Finite,,Root Question,?,,are,,,"[['How', 'WRB'], ['many', 'JJ'], ['people', 'NNS'], ['are', 'VBP']]",,be
+93,544,589,5.0,na,test-high-fire-where,How many people live in here?,test,high,fire,how,Finite,,Root Question,?,,live,,,"[['How', 'WRB'], ['many', 'JJ'], ['people', 'NNS'], ['live', 'VBP']]",,live
+94,545,590,6.0,na,test-high-fire-where,Do we know how many tenants are home?,test,high,fire,how,Finite,,Embedded Question,strict_emb,know,are,,,"[['how', 'WRB'], ['many', 'JJ'], ['tenants', 'NNS'], ['are', 'VBP']]",know,be
+95,548,593,9.0,na,test-high-fire-where,What floors are most of the tenants on?,test,high,fire,what,Finite,,Root Question,?,,are,,,"[['What', 'WP'], ['floors', 'NNS'], ['are', 'VBP']]",,be
+96,550,595,11.0,na,test-high-fire-where,How many have you saved so far?,test,high,fire,how,Finite,,Root Question,?,,have,saved,,"[['How', 'WRB'], ['many', 'JJ'], ['have', 'VBP']]",,have
+97,552,597,13.0,na,test-high-fire-where,How many tenants live here?,test,high,fire,how,Finite,,Root Question,?,,live,,,"[['How', 'WRB'], ['many', 'JJ'], ['tenants', 'NNS'], ['live', 'VBP']]",,live
+98,554,599,15.0,na,test-high-fire-where,Which apartments have tenants in them?,test,high,fire,which,Finite,,Root Question,rel_clause,,have,,,"[['Which', 'JJ'], ['apartments', 'NNS'], ['have', 'VBP']]",,have
+99,555,600,16.0,na,test-high-fire-where,How many tenants were in the building? ,test,high,fire,how,Finite,,Root Question,?,,were,,,"[['How', 'WRB'], ['many', 'JJ'], ['tenants', 'NNS'], ['were', 'VBD']]",,be
+100,556,601,17.0,na,test-high-fire-where,How many people are on each floor?,test,high,fire,how,Finite,,Root Question,?,,are,,,"[['How', 'WRB'], ['many', 'JJ'], ['people', 'NNS'], ['are', 'VBP']]",,be
+101,557,602,18.0,na,test-high-fire-where,Where are the tenants located?,test,high,fire,where,Finite,,Root Question,?,,are,located,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+102,558,603,19.0,na,test-high-fire-where,How many tenants are in the building?,test,high,fire,how,Finite,,Root Question,?,,are,,,"[['How', 'WRB'], ['many', 'JJ'], ['tenants', 'NNS'], ['are', 'VBP']]",,be
+103,560,605,21.0,na,test-high-fire-where,Where are the most tenants located?,test,high,fire,where,Finite,,Root Question,?,,are,located,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+104,562,607,17026,Spanish,test-high-fire-where,Where do most tenants tend to be?,test,high,fire,where,Finite,,Root Question,?,,do,tend,be,"[['Where', 'WRB'], ['do', 'VBP']]",,do
+105,563,608,16918,Spanish,test-high-fire-where,How many tenants live in this apartment building?,test,high,fire,how,Finite,,Root Question,?,,live,,,"[['How', 'WRB'], ['many', 'JJ'], ['tenants', 'NNS'], ['live', 'VBP']]",,live
+106,564,609,16570,Bengali,test-high-fire-where,Which floor caught on fire and how many people are in this complex,test,high,fire,which,Finite,,Root Question,rel_clause,,caught,are,,"[['Which', 'JJ'], ['floor', 'NN'], ['caught', 'VBD']]",,catch
+107,566,611,17899,arabic,test-high-fire-where,Which apartment or floor did the fire start on?,test,high,fire,which,Finite,,Root Question,rel_clause,,did,,,"[['Which', 'JJ'], ['apartment', 'NN'], ['or', 'CC'], ['floor', 'NN'], ['did', 'VBD']]",,do
+108,567,612,17245,English,test-high-fire-where,Where are the tenants?,test,high,fire,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+109,568,614,jmc835,english,test-high-fire-where,How many people are in the building?,test,high,fire,how,Finite,,Root Question,?,,are,,,"[['How', 'WRB'], ['many', 'JJ'], ['people', 'NNS'], ['are', 'VBP']]",,be
+110,569,615,18247,english,test-high-fire-where,Where are the remaining tenants located?,test,high,fire,where,Finite,,Root Question,?,,are,remaining,located,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+111,570,616,17197,English,test-high-fire-where,How many tenants live here?,test,high,fire,how,Finite,,Root Question,?,,live,,,"[['How', 'WRB'], ['many', 'JJ'], ['tenants', 'NNS'], ['live', 'VBP']]",,live
+112,572,619,16921 ,English,test-high-fire-where,Where are all of the tenants located?,test,high,fire,where,Finite,,Root Question,?,,are,located,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+113,573,620,16750,English ,test-high-fire-where,Where are most of the tenants located in the building?,test,high,fire,where,Finite,,Root Question,?,,are,located,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+114,575,623,17671,English,test-high-fire-where,What apartments are closest to the fire?,test,high,fire,what,Finite,,Root Question,?,,are,,,"[['What', 'WP'], ['apartments', 'NNS'], ['are', 'VBP']]",,be
+115,756,819,1.0,na,test-high-protest-where,Where did they take the protesters?,test,high,protest,where,Finite,,Root Question,?,,did,take,,"[['Where', 'WRB'], ['did', 'VBD']]",,do
+116,758,821,3.0,na,test-high-protest-where,Where are the captured protesters being held? ,test,high,protest,where,Finite,,Root Question,?,,are,being,held,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+117,759,822,4.0,na,test-high-protest-where,Where are the captured protesters located?,test,high,protest,where,Finite,,Root Question,?,,are,located,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+118,760,823,5.0,na,test-high-protest-where,Where did the captured protesters go?,test,high,protest,where,Finite,,Root Question,?,,did,go,,"[['Where', 'WRB'], ['did', 'VBD']]",,do
+119,761,824,6.0,na,test-high-protest-where,Where have the captured protesters been taken?,test,high,protest,where,Finite,,Root Question,?,,have,been,taken,"[['Where', 'WRB'], ['have', 'VBP']]",,have
+120,762,825,7.0,na,test-high-protest-where,Where are they,test,high,protest,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+121,763,826,8.0,na,test-high-protest-where,Where did they take the catpured protesters?,test,high,protest,where,Finite,,Root Question,?,,did,take,,"[['Where', 'WRB'], ['did', 'VBD']]",,do
+122,764,827,9.0,na,test-high-protest-where,Which areas of the city were the protesters protesting?,test,high,protest,which,Finite,,Root Question,rel_clause,,were,protesting,,"[['Which', 'JJ'], ['areas', 'NNS'], ['of', 'IN'], ['the', 'DT'], ['city', 'NN'], ['were', 'VBD']]",,be
+123,765,828,10.0,na,test-high-protest-where,Do any of you have an idea of where they are?,test,high,protest,where,Finite,,Relative Clause,strict_rel,have,are,,,"[['where', 'WRB'], ['they', 'PRP'], ['are', 'VBP']]",have,be
+124,766,829,11.0,na,test-high-protest-where,Where are the captured protesters?,test,high,protest,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+125,767,830,12.0,na,test-high-protest-where,Where could they be held?,test,high,protest,where,Modal,,Root Question,?,,could,be,held,"[['Where', 'WRB'], ['could', 'MD']]",,could
+126,768,831,13.0,na,test-high-protest-where,Where are the captured protesters?,test,high,protest,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+127,769,832,14.0,na,test-high-protest-where,Where is the hostages held?,test,high,protest,where,Finite,,Root Question,?,,is,held,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+128,770,833,15.0,na,test-high-protest-where,Where are the captured protesters being held?,test,high,protest,where,Finite,,Root Question,?,,are,being,held,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+129,771,834,16.0,na,test-high-protest-where,Where were the captured protesters located?,test,high,protest,where,Finite,,Root Question,?,,were,located,,"[['Where', 'WRB'], ['were', 'VBD']]",,be
+130,772,835,17.0,na,test-high-protest-where,Where are they being held?,test,high,protest,where,Finite,,Root Question,?,,are,being,held,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+131,773,836,18.0,na,test-high-protest-where,Where might they have taken the protesters?,test,high,protest,where,Modal,,Root Question,?,,might,have,taken,"[['Where', 'WRB'], ['might', 'MD']]",,might
+132,774,837,19.0,na,test-high-protest-where,Do we know the location of where the hostages are being held?,test,high,protest,where,Finite,,Relative Clause,strict_rel,know,are,being,held,"[['where', 'WRB'], ['the', 'DT'], ['hostages', 'NNS'], ['are', 'VBP']]",know,be
+133,775,838,20.0,na,test-high-protest-where,Where are the captured protesters?,test,high,protest,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+134,776,839,21.0,na,test-high-protest-where,Where were the protesters first captured?,test,high,protest,where,Finite,,Root Question,?,,were,captured,,"[['Where', 'WRB'], ['were', 'VBD']]",,be
+135,778,841,17026,Spanish,test-high-protest-where,Where do you think they are holding the captured protestors? ,test,high,protest,where,Finite,,Root Question,?,,do,think,are,"[['Where', 'WRB'], ['do', 'VBP']]",,do
+136,779,842,16918,Spanish,test-high-protest-where,Where are the protesters captured?,test,high,protest,where,Finite,,Root Question,?,,are,captured,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+137,780,843,16570,Bengali,test-high-protest-where,Can you find where they are being held? ,test,high,protest,where,Finite,,Embedded Question,strict_emb,find,are,being,held,"[['where', 'WRB'], ['they', 'PRP'], ['are', 'VBP']]",find,be
+138,781,844,17926,English,test-high-protest-where,Where are they being held?,test,high,protest,where,Finite,,Root Question,?,,are,being,held,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+139,782,845,17899,arabic,test-high-protest-where,Where are the protestors located?,test,high,protest,where,Finite,,Root Question,?,,are,located,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+140,783,846,17245,English,test-high-protest-where,Where are the protesters held?,test,high,protest,where,Finite,,Root Question,?,,are,held,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+141,784,848,jmc835,english,test-high-protest-where,Where are the captured protesters?,test,high,protest,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+142,785,849,18247,english,test-high-protest-where,Where do you think the protesters are being held?,test,high,protest,where,Finite,,Root Question,?,,do,think,are,"[['Where', 'WRB'], ['do', 'VBP']]",,do
+143,786,850,17197,English,test-high-protest-where,Where are the captured protestors?,test,high,protest,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+144,787,851,18148,English,test-high-protest-where,Where are the protestors being held?,test,high,protest,where,Finite,,Root Question,?,,are,being,held,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+145,788,853,16921 ,English,test-high-protest-where,Where are the protestors located?,test,high,protest,where,Finite,,Root Question,?,,are,located,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+146,789,854,16750,English ,test-high-protest-where,Where are the captured protesters?,test,high,protest,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+147,790,855,17659,English,test-high-protest-where,Where are the captured protesters being held?,test,high,protest,where,Finite,,Root Question,?,,are,being,held,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+148,791,857,17671,English,test-high-protest-where,Where would they keep them?,test,high,protest,where,Modal,,Root Question,?,,would,keep,,"[['Where', 'WRB'], ['would', 'MD']]",,would
+149,864,936,1.0,na,test-low-coffee-where,Where are some good coffee shops in minneapolis?,test,low,coffee,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+150,866,938,3.0,na,test-low-coffee-where,Where is the nearest coffee shop? ,test,low,coffee,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+151,867,939,4.0,na,test-low-coffee-where,Where is the best coffee shop?,test,low,coffee,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+152,868,940,5.0,na,test-low-coffee-where,What is your favorite coffee shop?,test,low,coffee,what,Finite,,Root Question,sub_aux_inv,,is,,,"[['What', 'WP'], ['is', 'VBZ']]",,be
+153,870,942,7.0,na,test-low-coffee-where,What coffee shops are good,test,low,coffee,what,Finite,,Root Question,amb,,are,,,"[['What', 'WP'], ['coffee', 'NN'], ['shops', 'NNS'], ['are', 'VBP']]",,be
+154,871,943,8.0,na,test-low-coffee-where,What are your favorite coffee shops?,test,low,coffee,what,Finite,,Root Question,sub_aux_inv,,are,,,"[['What', 'WP'], ['are', 'VBP']]",,be
+155,872,944,9.0,na,test-low-coffee-where,Where is the closest coffee shop?,test,low,coffee,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+156,874,946,11.0,na,test-low-coffee-where,What is the best local coffee shop?,test,low,coffee,what,Finite,,Root Question,sub_aux_inv,,is,,,"[['What', 'WP'], ['is', 'VBZ']]",,be
+157,876,948,13.0,na,test-low-coffee-where,Where are the best espresso shops?,test,low,coffee,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+158,877,949,14.0,na,test-low-coffee-where,What are the most chic cafes in the area?,test,low,coffee,what,Finite,,Root Question,sub_aux_inv,,are,,,"[['What', 'WP'], ['are', 'VBP']]",,be
+159,878,950,15.0,na,test-low-coffee-where,Where are the best coffee shops nearby? ,test,low,coffee,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+160,880,952,17.0,na,test-low-coffee-where,Where is your favorite coffee shop?,test,low,coffee,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+161,881,953,18.0,na,test-low-coffee-where,Where can i drink espresso around here?,test,low,coffee,where,Modal,,Root Question,?,,can,i,drink,"[['Where', 'WRB'], ['can', 'MD']]",,can
+162,882,954,19.0,na,test-low-coffee-where,Where can i get the best espresso in minneapolis?,test,low,coffee,where,Modal,,Root Question,?,,can,i,get,"[['Where', 'WRB'], ['can', 'MD']]",,can
+163,883,955,20.0,na,test-low-coffee-where,What are good coffee shops near us?,test,low,coffee,what,Finite,,Root Question,sub_aux_inv,,are,,,"[['What', 'WP'], ['are', 'VBP']]",,be
+164,884,956,21.0,na,test-low-coffee-where,Do you know where the best coffee shops that sell espresso are?,test,low,coffee,where,Finite,,Embedded Question,strict_emb,know,shops,sell,are,"[['where', 'WRB'], ['the', 'DT'], ['best', 'JJS'], ['coffee', 'NN'], ['shops', 'VBZ']]",know,shop
+165,885,957,17617,English,test-low-coffee-where,Where has the best espresso around here?,test,low,coffee,where,Finite,,Root Question,sub_aux_inv,,has,,,"[['Where', 'WRB'], ['has', 'VBZ']]",,have
+166,886,958,17026,Spanish,test-low-coffee-where,Where is the closets coffee shop near here?,test,low,coffee,where,Finite,,Root Question,?,,is,coffee,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+167,887,959,16918,Spanish,test-low-coffee-where,What is the best coffee shop in minneapolis?,test,low,coffee,what,Finite,,Root Question,sub_aux_inv,,is,,,"[['What', 'WP'], ['is', 'VBZ']]",,be
+168,888,960,16570,Bengali,test-low-coffee-where,Do you know where to find coffee shops ,test,low,coffee,where,Non-Finite,,Embedded Question,strict_emb,know,find,,,"[['where', 'WRB'], ['to', 'TO'], ['find', 'VB']]",know,find
+169,889,961,17926,English,test-low-coffee-where,Where can i get espresso?,test,low,coffee,where,Modal,,Root Question,?,,can,i,get,"[['Where', 'WRB'], ['can', 'MD']]",,can
+170,891,963,17245,English,test-low-coffee-where,Where can i find good coffee shops?,test,low,coffee,where,Modal,,Root Question,?,,can,i,,"[['Where', 'WRB'], ['can', 'MD']]",,can
+171,892,965,jmc835,english,test-low-coffee-where,Where are good coffee shops?,test,low,coffee,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+172,893,966,18247,english,test-low-coffee-where,What coffee shop do you go to?,test,low,coffee,what,Finite,,Root Question,?,,do,go,,"[['What', 'WP'], ['coffee', 'NN'], ['shop', 'NN'], ['do', 'VBP']]",,do
+173,895,968,18148,English,test-low-coffee-where,Where can i get some good espresso?,test,low,coffee,where,Modal,,Root Question,?,,can,i,get,"[['Where', 'WRB'], ['can', 'MD']]",,can
+174,896,970,16921 ,English,test-low-coffee-where,Where is the best coffee shop?,test,low,coffee,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+175,897,971,16750,English ,test-low-coffee-where,Where are the best coffee shops?,test,low,coffee,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+176,899,974,17671,English,test-low-coffee-where,Where are some good coffee shops around the city?,test,low,coffee,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+177,1081,1171,2.0,na,test-low-yoga-where,Where's a good yoga studio nearby?,test,low,yoga,where,Finite,,Root Question,sub_aux_inv,,'s,,,"[['Where', 'WRB'], [""'s"", 'VBZ']]",,'s
+178,1082,1172,3.0,na,test-low-yoga-where,Where are the nearest yoga studios? ,test,low,yoga,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+179,1083,1173,4.0,na,test-low-yoga-where,Where are the best yoga studios?,test,low,yoga,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+180,1084,1174,5.0,na,test-low-yoga-where,Which yoga studio is the best around here?,test,low,yoga,which,Finite,,Root Question,?,,is,,,"[['Which', 'WDT'], ['yoga', 'NN'], ['studio', 'NN'], ['is', 'VBZ']]",,be
+181,1085,1175,6.0,na,test-low-yoga-where,Can you tell me what yoga studios are in the area?,test,low,yoga,what,Finite,,Embedded Question,strict_rel,tell,are,,,"[['what', 'WP'], ['yoga', 'JJ'], ['studios', 'NNS'], ['are', 'VBP']]",tell,be
+182,1086,1176,7.0,na,test-low-yoga-where,Where are some good yoga studios,test,low,yoga,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+183,1087,1177,8.0,na,test-low-yoga-where,Where do you guys practice yoga?,test,low,yoga,where,Finite,,Root Question,?,,do,guys,,"[['Where', 'WRB'], ['do', 'VB']]",,do
+184,1088,1178,9.0,na,test-low-yoga-where,Where are the closest yoga studios?,test,low,yoga,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+185,1089,1179,10.0,na,test-low-yoga-where,What places have yoga here in this area?,test,low,yoga,what,Finite,,Root Question,?,,have,yoga,,"[['What', 'WP'], ['places', 'NNS'], ['have', 'VBP']]",,have
+186,1091,1181,12.0,na,test-low-yoga-where,Where are the local yoga studios?,test,low,yoga,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+187,1092,1182,13.0,na,test-low-yoga-where,Where are the yoga studios located?,test,low,yoga,where,Finite,,Root Question,?,,are,located,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+188,1093,1183,14.0,na,test-low-yoga-where,Which yoga studio is best in the area? ,test,low,yoga,which,Finite,,Root Question,?,,is,,,"[['Which', 'WDT'], ['yoga', 'NN'], ['studio', 'NN'], ['is', 'VBZ']]",,be
+189,1094,1184,15.0,na,test-low-yoga-where,Where are some good yoga studios nearby?,test,low,yoga,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+190,1095,1185,16.0,na,test-low-yoga-where,What yoga studios do you guys go to?,test,low,yoga,what,Finite,,Root Question,?,,do,guys,go,"[['What', 'WP'], ['yoga', 'NN'], ['studios', 'NNS'], ['do', 'VBP']]",,do
+191,1096,1186,17.0,na,test-low-yoga-where,Where are your favorite yoga studios?,test,low,yoga,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+192,1098,1188,19.0,na,test-low-yoga-where,What yoga studios do you go to?,test,low,yoga,what,Finite,,Root Question,?,,do,go,,"[['What', 'WP'], ['yoga', 'NN'], ['studios', 'NNS'], ['do', 'VBP']]",,do
+193,1100,1190,21.0,na,test-low-yoga-where,Where are the best yoga studios in the area?,test,low,yoga,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+194,1101,1191,17617,English,test-low-yoga-where,Where are some local yoga studies around here?,test,low,yoga,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+195,1102,1192,17026,Spanish,test-low-yoga-where,Where can i find a yoga studio?,test,low,yoga,where,Modal,,Root Question,?,,can,i,find,"[['Where', 'WRB'], ['can', 'MD']]",,can
+196,1103,1193,16918,Spanish,test-low-yoga-where,Which studio is the best?,test,low,yoga,which,Finite,,Root Question,rel_clause,,is,,,"[['Which', 'JJ'], ['studio', 'NN'], ['is', 'VBZ']]",,be
+197,1104,1194,16570,Bengali,test-low-yoga-where,Where are the yoga studios around here ,test,low,yoga,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+198,1105,1195,17926,English,test-low-yoga-where,What studios do you recommend?,test,low,yoga,what,Finite,,Root Question,?,,studios,do,recommend,"[['What', 'WP'], ['studios', 'VBZ']]",,studios
+199,1108,1199,jmc835,english,test-low-yoga-where,Where is a yoga studio?,test,low,yoga,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+200,1109,1200,18247,english,test-low-yoga-where,What yoga studios do you go to?,test,low,yoga,what,Finite,,Root Question,?,,do,go,,"[['What', 'WP'], ['yoga', 'NN'], ['studios', 'NNS'], ['do', 'VBP']]",,do
+201,1111,1202,18148,English,test-low-yoga-where,Where's the nearest yoga studio?,test,low,yoga,where,Finite,,Root Question,strict_rel,,'s,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+202,1112,1204,16921 ,English,test-low-yoga-where,Where is the nearest yoga studio?,test,low,yoga,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+203,1113,1205,16750,English ,test-low-yoga-where,Where are the best yoga studios?,test,low,yoga,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+204,1115,1208,17671,English,test-low-yoga-where,What yoga studios are around here?,test,low,yoga,what,Finite,,Root Question,?,,are,,,"[['What', 'WP'], ['yoga', 'NN'], ['studios', 'NNS'], ['are', 'VBP']]",,be
+205,1188,1287,1.0,na,test-high-terrorism-where,What stores are being targeted and where are they located?,test,high,terrorism,what,Finite,,Root Question,?,,are,being,targeted,"[['What', 'WP'], ['stores', 'NNS'], ['are', 'VBP']]",,be
+206,1189,1288,2.0,na,test-high-terrorism-where,What types of stores are these?,test,high,terrorism,what,Finite,,Root Question,?,,types,are,,"[['What', 'WP'], ['types', 'VBZ']]",,type
+207,1190,1289,3.0,na,test-high-terrorism-where,Which stores are getting terrorist threats? ,test,high,terrorism,which,Finite,,Root Question,rel_clause,,are,getting,,"[['Which', 'JJ'], ['stores', 'NNS'], ['are', 'VBP']]",,be
+208,1191,1290,4.0,na,test-high-terrorism-where,Where are the stores that were attacked?,test,high,terrorism,where,Finite,,Root Question,?,,are,were,attacked,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+209,1192,1291,5.0,na,test-high-terrorism-where,Which stores are targeted for the attacks?,test,high,terrorism,which,Finite,,Root Question,rel_clause,,are,targeted,,"[['Which', 'JJ'], ['stores', 'NNS'], ['are', 'VBP']]",,be
+210,1193,1292,6.0,na,test-high-terrorism-where,What part of the area are the targeted stores in?,test,high,terrorism,what,Finite,,Root Question,?,,are,,,"[['What', 'WP'], ['part', 'NN'], ['of', 'IN'], ['the', 'DT'], ['area', 'NN'], ['are', 'VBP']]",,be
+211,1195,1294,8.0,na,test-high-terrorism-where,Which stores are more likely to be attacked?,test,high,terrorism,which,Finite,,Root Question,rel_clause,,are,be,attacked,"[['Which', 'JJ'], ['stores', 'NNS'], ['are', 'VBP']]",,be
+212,1196,1295,9.0,na,test-high-terrorism-where,What neighborhoods are these stores in?,test,high,terrorism,what,Finite,,Root Question,?,,are,,,"[['What', 'WP'], ['neighborhoods', 'NNS'], ['are', 'VBP']]",,be
+213,1197,1296,10.0,na,test-high-terrorism-where,What stores do you think the terrorist will target next based on the past stores they attacked?,test,high,terrorism,what,Finite,,Root Question,?,,do,think,will,"[['What', 'WP'], ['stores', 'NNS'], ['do', 'VBP']]",,do
+214,1199,1298,12.0,na,test-high-terrorism-where,Where are the targeted stores location?,test,high,terrorism,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+215,1200,1299,13.0,na,test-high-terrorism-where,Where are the local stores here?,test,high,terrorism,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+216,1201,1300,14.0,na,test-high-terrorism-where,Which stores are being robbed the most ,test,high,terrorism,which,Finite,,Root Question,rel_clause,,are,being,robbed,"[['Which', 'JJ'], ['stores', 'NNS'], ['are', 'VBP']]",,be
+217,1202,1301,15.0,na,test-high-terrorism-where,Where are the stores that are being targeted?,test,high,terrorism,where,Finite,,Root Question,?,,are,are,being,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+218,1203,1302,16.0,na,test-high-terrorism-where,What stores are located around this location?,test,high,terrorism,what,Finite,,Root Question,?,,are,located,,"[['What', 'WP'], ['stores', 'NNS'], ['are', 'VBP']]",,be
+219,1205,1304,18.0,na,test-high-terrorism-where,What kind of stores would they target?,test,high,terrorism,what,Modal,,Root Question,?,,would,target,,"[['What', 'WP'], ['kind', 'NN'], ['of', 'IN'], ['stores', 'NNS'], ['would', 'MD']]",,would
+220,1206,1305,19.0,na,test-high-terrorism-where,Where are the locations of the target attacks?,test,high,terrorism,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+221,1207,1306,20.0,na,test-high-terrorism-where,Which stores are around the most populated areas? ,test,high,terrorism,which,Finite,,Root Question,rel_clause,,are,,,"[['Which', 'JJ'], ['stores', 'NNS'], ['are', 'VBP']]",,be
+222,1208,1307,21.0,na,test-high-terrorism-where,Where are the stores that were targeted? ,test,high,terrorism,where,Finite,,Root Question,?,,are,were,targeted,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+223,1209,1308,17617,English,test-high-terrorism-where,How many people shop in this area?,test,high,terrorism,how,Finite,,Root Question,?,,shop,,,"[['How', 'WRB'], ['many', 'JJ'], ['people', 'NNS'], ['shop', 'VBP']]",,shop
+224,1210,1309,17026,Spanish,test-high-terrorism-where,Where were the targeted stores located?,test,high,terrorism,where,Finite,,Root Question,?,,were,located,,"[['Where', 'WRB'], ['were', 'VBD']]",,be
+225,1211,1310,16918,Spanish,test-high-terrorism-where,What stores have been targeted so far?,test,high,terrorism,what,Finite,,Root Question,?,,have,been,targeted,"[['What', 'WP'], ['stores', 'NNS'], ['have', 'VBP']]",,have
+226,1212,1311,16570,Bengali,test-high-terrorism-where,Where are the stores,test,high,terrorism,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+227,1213,1312,17926,English,test-high-terrorism-where,Where are the largest and busiest stores in the area?,test,high,terrorism,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+228,1214,1313,17899,arabic,test-high-terrorism-where,What stores are located within the surrounding area?,test,high,terrorism,what,Finite,,Root Question,?,,are,located,surrounding,"[['What', 'WP'], ['stores', 'NNS'], ['are', 'VBP']]",,be
+229,1215,1314,17245,English,test-high-terrorism-where,What stores have been targeted?,test,high,terrorism,what,Finite,,Root Question,?,,have,been,targeted,"[['What', 'WP'], ['stores', 'NNS'], ['have', 'VBP']]",,have
+230,1216,1316,jmc835,english,test-high-terrorism-where,Where are the stores that are damaged?,test,high,terrorism,where,Finite,,Root Question,?,,are,are,damaged,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+231,1217,1317,18247,english,test-high-terrorism-where,What stores are located in the area?,test,high,terrorism,what,Finite,,Root Question,?,,are,located,,"[['What', 'WP'], ['stores', 'NNS'], ['are', 'VBP']]",,be
+232,1218,1318,17197,English,test-high-terrorism-where,Which stores are close to us?,test,high,terrorism,which,Finite,,Root Question,rel_clause,,are,,,"[['Which', 'JJ'], ['stores', 'NNS'], ['are', 'VBP']]",,be
+233,1219,1319,18148,English,test-high-terrorism-where,How far away are these stores from here?,test,high,terrorism,how,Finite,,Root Question,sub_aux_inv,,are,,,"[['How', 'WRB'], ['far', 'RB'], ['away', 'RB'], ['are', 'VBP']]",,be
+234,1220,1321,16921 ,English,test-high-terrorism-where,What are the locations of the stores?,test,high,terrorism,what,Finite,,Root Question,sub_aux_inv,,are,,,"[['What', 'WP'], ['are', 'VBP']]",,be
+235,1221,1322,16750,English ,test-high-terrorism-where,Which stores are being targeted? ,test,high,terrorism,which,Finite,,Root Question,rel_clause,,are,being,targeted,"[['Which', 'JJ'], ['stores', 'NNS'], ['are', 'VBP']]",,be
+236,1222,1323,17659,English,test-high-terrorism-where,What stores are being targeted in the area?,test,high,terrorism,what,Finite,,Root Question,?,,are,being,targeted,"[['What', 'WP'], ['stores', 'NNS'], ['are', 'VBP']]",,be
+237,1223,1325,17671,English,test-high-terrorism-where,Where can we evacuate these stores?,test,high,terrorism,where,Modal,,Root Question,?,,can,evacuate,,"[['Where', 'WRB'], ['can', 'MD']]",,can
+238,1404,1521,1.0,na,test-high-envelopes-where,Which offices were the envelopes sent to?,test,high,envelopes,which,Finite,,Root Question,rel_clause,,were,sent,,"[['Which', 'JJ'], ['offices', 'NNS'], ['were', 'VBD']]",,be
+239,1405,1522,2.0,na,test-high-envelopes-where,Which offices have been receiving these suspicious envelopes?,test,high,envelopes,which,Finite,,Root Question,rel_clause,,have,been,receiving,"[['Which', 'JJ'], ['offices', 'NNS'], ['have', 'VBP']]",,have
+240,1406,1523,3.0,na,test-high-envelopes-where,Which officials in the offices got envelopes? ,test,high,envelopes,which,Finite,,Root Question,rel_clause,,got,,,"[['Which', 'JJ'], ['officials', 'NNS'], ['in', 'IN'], ['the', 'DT'], ['offices', 'NNS'], ['got', 'VBD']]",,get
+241,1407,1524,4.0,na,test-high-envelopes-where,Where should i send my teams?,test,high,envelopes,where,Modal,,Root Question,?,,should,i,send,"[['Where', 'WRB'], ['should', 'MD']]",,should
+242,1408,1525,5.0,na,test-high-envelopes-where,Which offices did the letters come from?,test,high,envelopes,which,Finite,,Root Question,rel_clause,,did,come,,"[['Which', 'JJ'], ['offices', 'NNS'], ['did', 'VBD']]",,do
+243,1409,1526,6.0,na,test-high-envelopes-where,Which offices have received suspicious envelopes?,test,high,envelopes,which,Finite,,Root Question,rel_clause,,have,received,,"[['Which', 'JJ'], ['offices', 'NNS'], ['have', 'VBP']]",,have
+244,1410,1527,7.0,na,test-high-envelopes-where,What locations have been hit so far,test,high,envelopes,what,Finite,,Root Question,amb,,have,been,hit,"[['What', 'WP'], ['locations', 'NNS'], ['have', 'VBP']]",,have
+245,1411,1528,8.0,na,test-high-envelopes-where,Where are the offices that recieved letters?,test,high,envelopes,where,Finite,,Root Question,?,,are,recieved,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+246,1412,1529,9.0,na,test-high-envelopes-where,Which offices had envelopes sent to them recently?,test,high,envelopes,which,Finite,,Root Question,rel_clause,,had,sent,,"[['Which', 'JJ'], ['offices', 'NNS'], ['had', 'VBD']]",,have
+247,1413,1530,10.0,na,test-high-envelopes-where,What locations have you found are related to where this citizen has sent the envelopes out from?,test,high,envelopes,what,Finite,,Root Question,?,,have,found,are,"[['What', 'WP'], ['locations', 'NNS'], ['have', 'VBP']]",,have
+248,1414,1531,11.0,na,test-high-envelopes-where,How should we split up?,test,high,envelopes,how,Modal,,Root Question,?,,should,split,,"[['How', 'WRB'], ['should', 'MD']]",,should
+249,1416,1533,13.0,na,test-high-envelopes-where,Which locations do you think they were sent to?,test,high,envelopes,which,Finite,,Root Question,rel_clause,,do,think,were,"[['Which', 'JJ'], ['locations', 'NNS'], ['do', 'VBP']]",,do
+250,1417,1534,14.0,na,test-high-envelopes-where,Where is the office?,test,high,envelopes,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+251,1418,1535,15.0,na,test-high-envelopes-where,Where are the government officials that were sent the envelopes?,test,high,envelopes,where,Finite,,Root Question,?,,are,were,sent,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+252,1419,1536,16.0,na,test-high-envelopes-where,What offices have received these envelopes? ,test,high,envelopes,what,Finite,,Root Question,?,,have,received,,"[['What', 'WP'], ['offices', 'NNS'], ['have', 'VBP']]",,have
+253,1420,1537,17.0,na,test-high-envelopes-where,How closely are the offices located?,test,high,envelopes,how,Finite,,Root Question,?,,are,located,,"[['How', 'WRB'], ['closely', 'RB'], ['are', 'VBP']]",,be
+254,1421,1538,18.0,na,test-high-envelopes-where,Where is the nearest location?,test,high,envelopes,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+255,1422,1539,19.0,na,test-high-envelopes-where,Where are all of the locations of the offices that the suspicious mail was sent to?,test,high,envelopes,where,Finite,,Root Question,?,,are,was,sent,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+256,1424,1541,21.0,na,test-high-envelopes-where,Where are the offices that are most likely to be impacted?,test,high,envelopes,where,Finite,,Root Question,?,,are,are,be,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+257,1426,1543,17026,Spanish,test-high-envelopes-where,Where are the offices located?,test,high,envelopes,where,Finite,,Root Question,?,,are,located,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+258,1427,1544,16918,Spanish,test-high-envelopes-where,What offices has these suspicious envelopes been sent to so far?,test,high,envelopes,what,Finite,,Root Question,?,,has,been,sent,"[['What', 'WP'], ['offices', 'NNS'], ['has', 'VBZ']]",,have
+259,1428,1545,16570,Bengali,test-high-envelopes-where,Which offices were sent the envelopes? ,test,high,envelopes,which,Finite,,Root Question,rel_clause,,were,sent,,"[['Which', 'JJ'], ['offices', 'NNS'], ['were', 'VBD']]",,be
+260,1429,1546,17926,English,test-high-envelopes-where,Which offices have received mail?,test,high,envelopes,which,Finite,,Root Question,rel_clause,,have,received,,"[['Which', 'JJ'], ['offices', 'NNS'], ['have', 'VBP']]",,have
+261,1431,1548,17245,English,test-high-envelopes-where,What offices received suspicious envelopes?,test,high,envelopes,what,Finite,,Root Question,?,,received,,,"[['What', 'WP'], ['offices', 'NNS'], ['received', 'VBD']]",,receive
+262,1432,1550,jmc835,english,test-high-envelopes-where,Where are the offices that were sent suspicious envelopes? ,test,high,envelopes,where,Finite,,Root Question,?,,are,were,sent,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+263,1433,1551,18247,english,test-high-envelopes-where,What offices have been sent these envelopes?,test,high,envelopes,what,Finite,,Root Question,?,,have,been,sent,"[['What', 'WP'], ['offices', 'NNS'], ['have', 'VBP']]",,have
+264,1434,1552,17197,English,test-high-envelopes-where,Which offices received letters?,test,high,envelopes,which,Finite,,Root Question,rel_clause,,received,,,"[['Which', 'JJ'], ['offices', 'NNS'], ['received', 'VBD']]",,receive
+265,1436,1555,16921 ,English,test-high-envelopes-where,Where are the offices located?,test,high,envelopes,where,Finite,,Root Question,?,,are,located,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+266,1437,1556,16750,English ,test-high-envelopes-where,Where are the offices located?,test,high,envelopes,where,Finite,,Root Question,?,,are,located,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+267,1438,1557,17659,English,test-high-envelopes-where,Which locations should we send the teams to?,test,high,envelopes,which,Modal,,Root Question,rel_clause,,should,send,,"[['Which', 'JJ'], ['locations', 'NNS'], ['should', 'MD']]",,should
+268,1439,1559,17671,English,test-high-envelopes-where,What offices have we already found?,test,high,envelopes,what,Finite,,Root Question,?,,have,found,,"[['What', 'WP'], ['offices', 'NNS'], ['have', 'VBP']]",,have
+269,1512,1638,1.0,na,test-low-wood-where,Where is the nearest woodworking shop?,test,low,wood,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+270,1513,1639,2.0,na,test-low-wood-where,Where's a good woodworking shop around here?,test,low,wood,where,Finite,,Root Question,sub_aux_inv,,'s,,,"[['Where', 'WRB'], [""'s"", 'VBZ']]",,'s
+271,1514,1640,3.0,na,test-low-wood-where,Where are the woodworking shops? ,test,low,wood,where,Finite,,Root Question,?,,are,woodworking,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+272,1515,1641,4.0,na,test-low-wood-where,Where is the nearest woodworking shop?,test,low,wood,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+273,1516,1642,5.0,na,test-low-wood-where,Where is the best woodworking shop around here?,test,low,wood,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+274,1518,1644,7.0,na,test-low-wood-where,Where are the best woodworking shops,test,low,wood,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+275,1519,1645,8.0,na,test-low-wood-where,What is the best woodworking shop around here?,test,low,wood,what,Finite,,Root Question,sub_aux_inv,,is,,,"[['What', 'WP'], ['is', 'VBZ']]",,be
+276,1520,1646,9.0,na,test-low-wood-where,What are the closest woodworking shops?,test,low,wood,what,Finite,,Root Question,sub_aux_inv,,are,,,"[['What', 'WP'], ['are', 'VBP']]",,be
+277,1522,1648,11.0,na,test-low-wood-where,Where are the woodworking shops?,test,low,wood,where,Finite,,Root Question,?,,are,woodworking,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+278,1523,1649,12.0,na,test-low-wood-where,Where are the woodworking shops around?,test,low,wood,where,Finite,,Root Question,?,,are,woodworking,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+279,1524,1650,13.0,na,test-low-wood-where,Where are the woodworking shops?,test,low,wood,where,Finite,,Root Question,?,,are,woodworking,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+280,1525,1651,14.0,na,test-low-wood-where,Where’s the closest woodworking shops?,test,low,wood,where,Finite,,Root Question,?,,s,,,"[['Where', 'WRB'], ['’', 'NN'], ['s', 'VBZ']]",,s
+281,1526,1652,15.0,na,test-low-wood-where,Where are the closest woodworking shops?,test,low,wood,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+282,1528,1654,17.0,na,test-low-wood-where,How far is the nearest woodworking shop?,test,low,wood,how,Finite,,Root Question,sub_aux_inv,,is,,,"[['How', 'WRB'], ['far', 'RB'], ['is', 'VBZ']]",,be
+283,1530,1656,19.0,na,test-low-wood-where,Do you know where any woodworking stores are around here?,test,low,wood,where,Finite,,Embedded Question,strict_emb,know,are,,,"[['where', 'WRB'], ['any', 'DT'], ['woodworking', 'NN'], ['stores', 'NNS'], ['are', 'VBP']]",know,be
+284,1531,1657,20.0,na,test-low-wood-where,What are the best woodworking shops around here?,test,low,wood,what,Finite,,Root Question,sub_aux_inv,,are,,,"[['What', 'WP'], ['are', 'VBP']]",,be
+285,1532,1658,21.0,na,test-low-wood-where,Where are the best woodworking shops in town?,test,low,wood,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+286,1533,1659,17617,English,test-low-wood-where,Do you know where any local woodworking shops are around here?,test,low,wood,where,Finite,,Embedded Question,strict_emb,know,are,,,"[['where', 'WRB'], ['any', 'DT'], ['local', 'JJ'], ['woodworking', 'NN'], ['shops', 'NNS'], ['are', 'VBP']]",know,be
+287,1534,1660,17026,Spanish,test-low-wood-where,What is the nearest woodworking shop?,test,low,wood,what,Finite,,Root Question,sub_aux_inv,,is,,,"[['What', 'WP'], ['is', 'VBZ']]",,be
+288,1535,1661,16918,Spanish,test-low-wood-where,What is the best woodworking shop in the area?,test,low,wood,what,Finite,,Root Question,sub_aux_inv,,is,,,"[['What', 'WP'], ['is', 'VBZ']]",,be
+289,1536,1662,16570,Bengali,test-low-wood-where,Where are the woodworking shops?,test,low,wood,where,Finite,,Root Question,?,,are,woodworking,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+290,1537,1663,17926,English,test-low-wood-where,Where could i find an amish woodworking shop?,test,low,wood,where,Modal,,Root Question,?,,could,i,find,"[['Where', 'WRB'], ['could', 'MD']]",,could
+291,1539,1665,17245,English,test-low-wood-where,Where can i find the woodworking shops?,test,low,wood,where,Modal,,Root Question,?,,can,i,find,"[['Where', 'WRB'], ['can', 'MD']]",,can
+292,1540,1667,jmc835,english,test-low-wood-where,Where are woodworking shops?,test,low,wood,where,Finite,,Root Question,?,,are,woodworking,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+293,1541,1668,18247,english,test-low-wood-where,Where can i find a woodworking shop?,test,low,wood,where,Modal,,Root Question,?,,can,i,find,"[['Where', 'WRB'], ['can', 'MD']]",,can
+294,1543,1670,18148,English,test-low-wood-where,Where can i find an amish woodworking shop around here?,test,low,wood,where,Modal,,Root Question,?,,can,i,find,"[['Where', 'WRB'], ['can', 'MD']]",,can
+295,1544,1672,16921 ,English,test-low-wood-where,How far are the woodworking shops?,test,low,wood,how,Finite,,Root Question,?,,are,woodworking,,"[['How', 'WRB'], ['far', 'RB'], ['are', 'VBP']]",,be
+296,1545,1673,16750,English ,test-low-wood-where,Where are the amish woodworking shops?,test,low,wood,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+297,1547,1676,17671,English,test-low-wood-where,Can you point me to where some woodworking shops are?,test,low,wood,where,Finite,,Embedded Question,strict_rel,point,are,,,"[['where', 'WRB'], ['some', 'DT'], ['woodworking', 'NN'], ['shops', 'NNS'], ['are', 'VBP']]",point,be
+298,1620,1755,1.0,na,test-high-rabies-where,Where have you received the most calls in relation to rabid animals?,test,high,rabies,where,Finite,,Root Question,?,,have,received,rabid,"[['Where', 'WRB'], ['have', 'VBP']]",,have
+299,1621,1756,2.0,na,test-high-rabies-where,Where have people been seeing these rabid animals lately?,test,high,rabies,where,Finite,,Root Question,?,,have,been,seeing,"[['Where', 'WRB'], ['have', 'VBP']]",,have
+300,1622,1757,3.0,na,test-high-rabies-where,Where are the rabid animals? ,test,high,rabies,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+301,1623,1758,4.0,na,test-high-rabies-where,Where was the animal last seen?,test,high,rabies,where,Finite,,Root Question,?,,was,seen,,"[['Where', 'WRB'], ['was', 'VBD']]",,be
+302,1624,1759,5.0,na,test-high-rabies-where,Where have the rabid animals been seen,test,high,rabies,where,Finite,,Root Question,amb,,have,been,seen,"[['Where', 'WRB'], ['have', 'VBP']]",,have
+303,1627,1762,8.0,na,test-high-rabies-where,Where were the calls coming from?,test,high,rabies,where,Finite,,Root Question,?,,were,coming,,"[['Where', 'WRB'], ['were', 'VBD']]",,be
+304,1628,1763,9.0,na,test-high-rabies-where,Where were these animals last seen?,test,high,rabies,where,Finite,,Root Question,?,,were,seen,,"[['Where', 'WRB'], ['were', 'VBD']]",,be
+305,1629,1764,10.0,na,test-high-rabies-where,Where did the callers say these animals were?,test,high,rabies,where,Finite,,Root Question,?,,did,say,were,"[['Where', 'WRB'], ['did', 'VBD']]",,do
+306,1631,1766,12.0,na,test-high-rabies-where,Where are the infected animals?,test,high,rabies,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+307,1632,1767,13.0,na,test-high-rabies-where,Where do you think they went?,test,high,rabies,where,Finite,,Root Question,?,,do,think,went,"[['Where', 'WRB'], ['do', 'VBP']]",,do
+308,1633,1768,14.0,na,test-high-rabies-where,What are the locations of the latest reports of rabid animals?,test,high,rabies,what,Finite,,Root Question,sub_aux_inv,,are,,,"[['What', 'WP'], ['are', 'VBP']]",,be
+309,1634,1769,15.0,na,test-high-rabies-where,Where are these animals being spotted?,test,high,rabies,where,Finite,,Root Question,?,,are,being,spotted,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+310,1635,1770,16.0,na,test-high-rabies-where,Where have there been rabid animals reported? ,test,high,rabies,where,Finite,,Root Question,?,,have,been,reported,"[['Where', 'WRB'], ['have', 'VBP']]",,have
+311,1636,1771,17.0,na,test-high-rabies-where,Around which areas were the animals spotted?,test,high,rabies,which,Finite,,Root Question,?,,were,spotted,,"[['which', 'WDT'], ['areas', 'NNS'], ['were', 'VBD']]",,be
+312,1637,1772,18.0,na,test-high-rabies-where,How far could they have gone within a 24 hour period?,test,high,rabies,how,Modal,,Root Question,?,,could,have,gone,"[['How', 'WRB'], ['far', 'RB'], ['could', 'MD']]",,could
+313,1638,1773,19.0,na,test-high-rabies-where,Where have the calls been coming from about the infected animals?,test,high,rabies,where,Finite,,Root Question,?,,have,been,coming,"[['Where', 'WRB'], ['have', 'VBP']]",,have
+314,1639,1774,20.0,na,test-high-rabies-where,What is the location of the infected animals?,test,high,rabies,what,Finite,,Root Question,sub_aux_inv,,is,,,"[['What', 'WP'], ['is', 'VBZ']]",,be
+315,1640,1775,21.0,na,test-high-rabies-where,Where were the last infected animals seen?,test,high,rabies,where,Finite,,Root Question,?,,were,seen,,"[['Where', 'WRB'], ['were', 'VBD']]",,be
+316,1641,1776,17617,English,test-high-rabies-where,Who can remind the team on what the symptoms of rabid animals are?,test,high,rabies,who,Modal,,Root Question,?,,can,remind,are,"[['Who', 'WP'], ['can', 'MD']]",,can
+317,1642,1777,17026,Spanish,test-high-rabies-where,Where have the infected animals been seen?,test,high,rabies,where,Finite,,Root Question,?,,have,been,seen,"[['Where', 'WRB'], ['have', 'VBP']]",,have
+318,1643,1778,16918,Spanish,test-high-rabies-where,What locations so far have called about the animal infestation?,test,high,rabies,what,Finite,,Root Question,?,,locations,have,called,"[['What', 'WP'], ['locations', 'VBZ']]",,locations
+319,1644,1779,16570,Bengali,test-high-rabies-where,Where was the animal last seen ,test,high,rabies,where,Finite,,Root Question,amb,,was,seen,,"[['Where', 'WRB'], ['was', 'VBD']]",,be
+320,1645,1780,17926,English,test-high-rabies-where,Where were the callers located when they called?,test,high,rabies,where,Finite,,Root Question,?,,were,located,called,"[['Where', 'WRB'], ['were', 'VBD']]",,be
+321,1648,1784,jmc835,english,test-high-rabies-where,Where are the infested animals?,test,high,rabies,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+322,1649,1785,18247,english,test-high-rabies-where,Where do the calls say the animals are located?,test,high,rabies,where,Finite,,Root Question,?,,do,say,are,"[['Where', 'WRB'], ['do', 'VB']]",,do
+323,1650,1786,17197,English,test-high-rabies-where,Where were the rabid animals last seen?,test,high,rabies,where,Finite,,Root Question,?,,were,seen,,"[['Where', 'WRB'], ['were', 'VBD']]",,be
+324,1652,1789,16921 ,English,test-high-rabies-where,What are the infections that these animals have?,test,high,rabies,what,Finite,,Root Question,sub_aux_inv,,are,have,,"[['What', 'WP'], ['are', 'VBP']]",,be
+325,1653,1790,16750,English ,test-high-rabies-where,Where are the infected animals?,test,high,rabies,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+326,1654,1791,17659,English,test-high-rabies-where,What areas have you received the most calls from?,test,high,rabies,what,Finite,,Root Question,?,,have,received,,"[['What', 'WP'], ['areas', 'NNS'], ['have', 'VBP']]",,have
+327,1655,1793,17671,English,test-high-rabies-where,Where were these infected animals last seen?,test,high,rabies,where,Finite,,Root Question,?,,were,infected,seen,"[['Where', 'WRB'], ['were', 'VBD']]",,be
+328,1729,1873,2.0,na,test-low-cycling-where,Where's the nearest bike shop?,test,low,cycling,where,Finite,,Root Question,sub_aux_inv,,'s,,,"[['Where', 'WRB'], [""'s"", 'VBZ']]",,'s
+329,1730,1874,3.0,na,test-low-cycling-where,Where is the nearest bike shop? ,test,low,cycling,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+330,1731,1875,4.0,na,test-low-cycling-where,Where is the nearest bike shop?,test,low,cycling,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+331,1732,1876,5.0,na,test-low-cycling-where,Where is the closest bike shop?,test,low,cycling,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+332,1734,1878,7.0,na,test-low-cycling-where,Where are the best bike shops,test,low,cycling,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+333,1735,1879,8.0,na,test-low-cycling-where,Where did you get your bike?,test,low,cycling,where,Finite,,Root Question,?,,did,get,,"[['Where', 'WRB'], ['did', 'VBD']]",,do
+334,1736,1880,9.0,na,test-low-cycling-where,Where are the closest bike shops and which one is better?,test,low,cycling,where,Finite,,Root Question,sub_aux_inv,,are,is,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+335,1737,1881,10.0,na,test-low-cycling-where,What bike shops do you guys know about?,test,low,cycling,what,Finite,,Root Question,?,,do,guys,know,"[['What', 'WP'], ['bike', 'NN'], ['shops', 'NNS'], ['do', 'VBP']]",,do
+336,1738,1882,11.0,na,test-low-cycling-where,Where is the closest bike shop?,test,low,cycling,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+337,1739,1883,12.0,na,test-low-cycling-where,Where is the nearest bike shop? ,test,low,cycling,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+338,1740,1884,13.0,na,test-low-cycling-where,Where are the best bike shops?,test,low,cycling,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+339,1741,1885,14.0,na,test-low-cycling-where,Where is the nearest bike shop? ,test,low,cycling,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+340,1742,1886,15.0,na,test-low-cycling-where,Where is the best bike shop nearby?,test,low,cycling,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+341,1744,1888,17.0,na,test-low-cycling-where,Where can i find a bike shop?,test,low,cycling,where,Modal,,Root Question,?,,can,i,find,"[['Where', 'WRB'], ['can', 'MD']]",,can
+342,1745,1889,18.0,na,test-low-cycling-where,Where is the nearest bike shop around here?,test,low,cycling,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+343,1746,1890,19.0,na,test-low-cycling-where,Where is the best bike shop?,test,low,cycling,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+344,1748,1892,21.0,na,test-low-cycling-where,Where are the best bike shops for cycling equipment? ,test,low,cycling,where,Finite,,Root Question,?,,are,cycling,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+345,1749,1893,17617,English,test-low-cycling-where,Where are some bike shops?,test,low,cycling,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+346,1750,1894,17026,Spanish,test-low-cycling-where,Where can i find a good bike shop?,test,low,cycling,where,Modal,,Root Question,?,,can,i,find,"[['Where', 'WRB'], ['can', 'MD']]",,can
+347,1751,1895,16918,Spanish,test-low-cycling-where,Do you know where the closest bike shop is?,test,low,cycling,where,Finite,,Embedded Question,strict_emb,know,is,,,"[['where', 'WRB'], ['the', 'DT'], ['closest', 'JJS'], ['bike', 'NN'], ['shop', 'NN'], ['is', 'VBZ']]",know,be
+348,1752,1896,16570,Bengali,test-low-cycling-where,Where are they bike shops,test,low,cycling,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+349,1753,1897,17926,English,test-low-cycling-where,Where can i find a good bike shop?,test,low,cycling,where,Modal,,Root Question,?,,can,i,find,"[['Where', 'WRB'], ['can', 'MD']]",,can
+350,1755,1899,17245,English,test-low-cycling-where,Where can i find good bike shops?,test,low,cycling,where,Modal,,Root Question,?,,can,i,,"[['Where', 'WRB'], ['can', 'MD']]",,can
+351,1756,1901,jmc835,english,test-low-cycling-where,Where are bike shops?,test,low,cycling,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+352,1759,1904,18148,English,test-low-cycling-where,Where can i get a good bike?,test,low,cycling,where,Modal,,Root Question,?,,can,i,get,"[['Where', 'WRB'], ['can', 'MD']]",,can
+353,1760,1906,16921 ,English,test-low-cycling-where,Where is the best bike shop around here?,test,low,cycling,where,Finite,,Root Question,sub_aux_inv,,is,,,"[['Where', 'WRB'], ['is', 'VBZ']]",,be
+354,1761,1907,16750,English ,test-low-cycling-where,Where are the local bike shops?,test,low,cycling,where,Finite,,Root Question,sub_aux_inv,,are,,,"[['Where', 'WRB'], ['are', 'VBP']]",,be
+355,1762,1908,17659,English,test-low-cycling-where,Do you know where i can find a bike shop?,test,low,cycling,where,Modal,,Embedded Question,strict_emb,know,can,find,,"[['where', 'WRB'], ['i', 'NN'], ['can', 'MD']]",know,can
+356,1763,1910,17671,English,test-low-cycling-where,What bike shops do you go to around here?,test,low,cycling,what,Finite,,Root Question,?,,do,go,,"[['What', 'WP'], ['bike', 'NN'], ['shops', 'NNS'], ['do', 'VBP']]",,do
